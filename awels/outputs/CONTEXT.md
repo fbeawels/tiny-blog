@@ -1,4 +1,3 @@
-```markdown
 # Repository Context Description
 
 ## Overview
@@ -27,5 +26,3 @@ The architecture of TinyBlog primarily utilizes Pharo's capabilities to construc
 The TinyBlog repository is both a practical and educational resource ideal for those looking to start web development using Pharo. It delivers a structured approach to learning, using the power of Smalltalk, facilitated through example code and comprehensive tutorial content drawn from a respected guidebook.
 
 For further information on license terms and sharing conditions, visit the Creative Commons page: [Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-```
